@@ -32,6 +32,20 @@ static/images/uploads/2026/
 └── Pandavapuram.jpg
 
 1 directory, 9 files
+
+$ tree static/images/uploads/2025/
+static/images/uploads/2025/
+├── anthithottam-india-tour.jpg
+├── enact-2025.jpg
+├── indian-community-appreciation-dinner-pm-lee.jpg
+├── kairalee-family-gathering-2025.jpg
+├── kairalee-family-trip-malacca.jpg
+├── kairalee-onam-2025.jpg
+├── kathakali-lecdum.jpg
+├── meet-greet-aneesh-ravi.jpg
+└── mehafil-season-1.jpg
+
+1 directory, 9 files
 ```
 
 ## IMPORTANT:
